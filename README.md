@@ -2,7 +2,7 @@
 
 **`Analista de dados`**
 
-Olá ;) Me chamo Eduardo gomes, tenho 18 anos e sou do rio de janeiro.
+Olá ;) Me chamo Eduardo gomes, tenho 1 anos e sou do rio de janeiro.
 Atualmente estou cursando analise de desenvolvimento de sistemas na universidade estacio de sa.
 Desde de que conheci a área de dados venho me apaixonando cada vez mais e mais e aqui assim como no meu [linkedin](www.linkedin.com/in/eduardo-gomes-de-moura-martins-146b912aa) irei compartilhar os projetos que faço com todo esse amor, e alguns projetos da faculdade também.
 
